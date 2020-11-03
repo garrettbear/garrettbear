@@ -1,0 +1,24 @@
+{
+  "name": "garrettbear",
+  "version": "1.0.0",
+  "description": "Meet GarrettBear. I put my pants on one arm at a time.",
+  "main": "index.js",
+  "bin": {
+    "about": "index.js",
+    "test": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrettbear/garrettbear.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrettbear/garrettbear/issues"
+  },
+  "homepage": "https://github.com/garrettbear/garrettbear#readme"
+}
